@@ -8,9 +8,6 @@ A GitHub CLI extension that transforms YouTube into a productivity tool by curat
 ![Python](https://img.shields.io/badge/Made%20With-Python%20%2B%20Rich-yellow?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-![Main Menu Screenshot](https://via.placeholder.com/800x400/1a1a1a/00FF00?text=ADD+YOUR+SCREENSHOT+HERE)
-> ⚠️ **TODO:** Replace this placeholder with your actual demo screenshot showing the main menu!
-
 ---
 
 ## 🏆 GitHub CLI Challenge 2026
@@ -201,25 +198,6 @@ gh focus  # Restart the app
 
 The app automatically detects MPV and activates **Ad-Free Distraction-Free Mode**! ✨
 
-### Option B: Use VLC Instead
-
-If MPV doesn't work for you:
-
-**Windows:**
-```powershell
-winget install VideoLAN.VLC
-```
-
-**macOS:**
-```bash
-brew install vlc
-```
-
-**Linux:**
-```bash
-sudo apt-get install vlc
-```
-
 ---
 
 ## Video Player Priority
@@ -401,30 +379,6 @@ Easy to add: Pomodoro timer, progress tracking, channel auto-discovery, etc.
 
 ---
 
-## Demo Scenario (For Hackathon Judging)
-
-**Time: 2 minutes**
-
-1. **Show the problem** (30 seconds)
-   - Open YouTube → Show algorithmic chaos
-   - "This is why developers lose 3 hours daily"
-
-2. **Show gh-focus** (60 seconds)
-   - Run `python gh-focus`
-   - Select "coding" category
-   - Show curated list (no distractions)
-   - Open video in MPV
-   - "Notice: no sidebar, no comments, no algorithm"
-
-3. **Show the code** (30 seconds)
-   - Point to `fetcher.py` → "RSS feeds, no API key"
-   - Point to `focus_manager.py` → "Simple JSON config"
-   - "Easy to extend, easy to customize"
-
-**Closing:** "GitHub CLI isn't just for GitHub operations. It's for developer wellness."
-
----
-
 ## Contributing
 
 This is a GitHub CLI Challenge 2026 submission. Community contributions welcome!
@@ -433,8 +387,8 @@ This is a GitHub CLI Challenge 2026 submission. Community contributions welcome!
 
 ## 🔗 Links
 
-- **Dev.to Submission:** [ADD YOUR DEV.TO POST LINK HERE]
-- **GitHub Repository:** https://github.com/Pakeeza1508/github-cli-challenge
+- **Dev.to Submission:** https://dev.to/pz_khalid/focus-feed-a-github-cli-extension-for-intentional-learning-3852
+- **GitHub Repository:** https://github.com/Pakeeza1508/gh-focus
 - **Extension Install:** `gh extension install Pakeeza1508/gh-focus`
 - **Technical Challenges Documentation:** [CHALLENGES.md](CHALLENGES.md)
 
